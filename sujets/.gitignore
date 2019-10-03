@@ -1,2 +1,2 @@
-sujets/
-.ipynb_checkpoints/
+/sujets/*
+.ipynb_checkpoints/*
